@@ -21,7 +21,6 @@ def main():
     print("█  UTS PENGOLAHAN CITRA DIGITAL (PCD)                               █")
     print("█  Kode MK  : A18.1601                                              █")
     print("█  Semester  : Genap 2025/2026                                       █")
-    print("█  Dosen     : M.Naufal, S.Tr.T, M.Kom                              █")
     print("█" * 70)
 
     print("\n\n")

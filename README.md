@@ -2,9 +2,6 @@
 ## Pengolahan Citra Digital (A18.1601)
 ### Semester Genap 2025/2026
 
-**Dosen:** M.Naufal, S.Tr.T, M.Kom  
-**Universitas Dian Nuswantoro - Fakultas Ilmu Komputer**
-
 ---
 
 ## DAFTAR ISI
